@@ -1,0 +1,4 @@
+fastApi
+uvicorn
+joblib
+sklearn
